@@ -1,0 +1,112 @@
+{
+  
+  "suit.thor.flight.enable": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/flight_enable"
+    ]
+  },
+  "suit.thor.flight.disable": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/flight_disable"
+    ]
+  },
+  "suit.thor.lightning_transformation": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/lightning_transformation"
+    ]
+  },
+  "suit.thor.super_jump": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/super_jump"
+    ]
+  },
+  "suit.thor.charged_leap": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/charged_leap"
+    ]
+  },
+  "suit.thor.thunder_rumble.loop": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/thunder_rumble_loop"
+    ]
+  },
+  "suit.thor.mjolnir.spin.loop": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/spin_loop"
+    ]
+  },
+  "suit.thor.mjolnir.throw": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/throw"
+    ]
+  },
+  "suit.thor.mjolnir.throw.loop": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/throw_loop"
+    ]
+  },
+  "suit.thor.mjolnir.landing": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/landing"
+    ]
+  },
+  "suit.thor.mjolnir.hit": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/hit_1",
+      "suit/thor/mjolnir/hit_2",
+      "suit/thor/mjolnir/hit_3",
+      "suit/thor/mjolnir/hit_4"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.hit": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/lightning/hit_1",
+      "suit/thor/mjolnir/lightning/hit_2",
+      "suit/thor/mjolnir/lightning/hit_3",
+      "suit/thor/mjolnir/lightning/hit_4"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.flicker_loop": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/lightning/flicker_loop"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.lightning_shoot": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/lightning/lightning_shoot"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.charged_beam.shoot": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/lightning/charged_beam_shoot"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.charged_beam.loop": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/lightning/charged_beam_loop"
+    ]
+  },
+  "suit.thor.mjolnir.lightning.charged_beam.stop": {
+    "category": "player",
+    "sounds": [
+      "suit/thor/mjolnir/lightning/charged_beam_stop"
+    ]
+    
+  }
+}
